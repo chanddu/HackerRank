@@ -1,4 +1,0 @@
-HackerRank
-==========
-
-HackerRank Practice problems
